@@ -85,7 +85,7 @@ I enjoy turning messy real-world data into meaningful analysis, predictive model
 <tr>
 <td width="25%" align="center" valign="top">
 
-### 📊 Analytics
+## 📊  <br/> Analytics
 
 SQL  
 EDA  
@@ -96,7 +96,7 @@ Customer Analysis
 
 <td width="25%" align="center" valign="top">
 
-### 🔮 Predictive
+## 🔮 <br/>  Predictive
 
 Machine Learning  
 Forecasting  
@@ -107,7 +107,7 @@ Regression
 
 <td width="25%" align="center" valign="top">
 
-### 👁️ AI / Vision
+## 👁️ <br/>  AI / Vision
 
 Computer Vision  
 YOLO  
@@ -118,7 +118,7 @@ Deep Learning
 
 <td width="30%" align="center" valign="top">
 
-### 📈 Visualization
+## 📈 <br/>  Visualization
 
 Power BI  
 Matplotlib  
@@ -143,12 +143,12 @@ Data Storytelling
 | Workflow | `Git` `GitHub` |
 
 ---
-📊 Portfolio at a Glance
+## 📊 Portfolio at a Glance
 <p align="center"> <img src="./assets/data-science-landscape.svg" width="100%" alt="Vincent's Data Science Landscape" /> </p>
 <p align="center"> <img src="./assets/project-capability-matrix-fixed.svg" width="100%" alt="Project Capability Matrix" /> </p>
 <p align="center"> <img src="./assets/tools-across-work.svg" width="100%" alt="Tools Across My Work" /> </p>
 
-📍 My Journey Through Data
+## 📍 My Journey Through Data
 <p align="center"> <img src="./assets/personal-journey-timeline-updated.svg" width="100%" alt="Personal Journey Timeline" /> </p>
 
 ---
