@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="650" viewBox="0 0 900 650" role="img">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}
+.title{font-size:26px;font-weight:700;fill:#f0f6fc}
+.subtitle{font-size:14px;fill:#8b949e}
+.label{font-size:14px;fill:#f0f6fc}
+.small{font-size:12px;fill:#8b949e}
+</style>
+<rect width="100%" height="100%" rx="18" fill="#0d1117"/>
+<text x="42" y="48" class="title" text-anchor="start">My Journey Through Data</text>
+<text x="42" y="74" class="subtitle" text-anchor="start">A compact timeline connecting education, teaching, projects, research, and the current portfolio direction.</text>
+
+<line x1="160" y1="120" x2="160" y2="585" stroke="#30363d" stroke-width="3"/>
+
+<circle cx="160" cy="135" r="10" fill="#58a6ff"/>
+<text x="125" y="140" class="label" text-anchor="end" font-weight="700">2022</text>
+<text x="195" y="127" class="label" text-anchor="start" font-weight="700">Computer Science — KMUTT</text>
+<text x="195" y="150" class="small" text-anchor="start">Started B.Sc. in Computer Science (English Program).</text>
+
+<circle cx="160" cy="220" r="10" fill="#3fb950"/>
+<text x="125" y="225" class="label" text-anchor="end" font-weight="700">2023</text>
+<text x="195" y="212" class="label" text-anchor="start" font-weight="700">Heart Disease Visualization</text>
+<text x="195" y="235" class="small" text-anchor="start">Exploratory analysis and data visualization project.</text>
+<text x="195" y="253" class="small" text-anchor="start">Teaching Assistant role began at KMUTT.</text>
+
+<circle cx="160" cy="315" r="10" fill="#d29922"/>
+<text x="125" y="320" class="label" text-anchor="end" font-weight="700">2024</text>
+<text x="195" y="307" class="label" text-anchor="start" font-weight="700">BI + Computer Vision</text>
+<text x="195" y="330" class="small" text-anchor="start">AdventureWorks Power BI analysis, followed by Exercise</text>
+<text x="195" y="348" class="small" text-anchor="start">&amp; Yoga Detection with YOLOv8.</text>
+
+<circle cx="160" cy="425" r="10" fill="#bc8cff"/>
+<text x="125" y="430" class="label" text-anchor="end" font-weight="700">2025</text>
+<text x="195" y="417" class="label" text-anchor="start" font-weight="700">Forecasting, ML &amp; Research</text>
+<text x="195" y="440" class="small" text-anchor="start">Store Sales Forecasting and Flu Shot Learning;</text>
+<text x="195" y="458" class="small" text-anchor="start">Research Assistant at Yuan Ze University working with</text>
+<text x="195" y="476" class="small" text-anchor="start">video data, OpenPose and temporal deep learning.</text>
+
+<circle cx="160" cy="545" r="10" fill="#39c5cf"/>
+<text x="125" y="550" class="label" text-anchor="end" font-weight="700">2026</text>
+<text x="195" y="532" class="label" text-anchor="start" font-weight="700">Graduated B.Sc. + Portfolio Direction</text>
+<text x="195" y="555" class="small" text-anchor="start">Graduated with B.Sc. in Computer Science (First Class Honors).</text>
+<text x="195" y="573" class="small" text-anchor="start">Continuing direction: Data Analyst × Data Scientist, focused on</text>
+<text x="195" y="591" class="small" text-anchor="start">analytics, forecasting, machine learning, visualization and applied AI.</text>
+
+<rect x="590" y="188" width="260" height="78" rx="12" fill="#161b22" stroke="#30363d"/>
+<text x="610" y="215" class="label" text-anchor="start" font-weight="700">Teaching Assistant</text>
+<text x="610" y="238" class="small" text-anchor="start">KMUTT • Aug 2023 – Jul 2026</text>
+<text x="610" y="258" class="small" text-anchor="start">Mentoring + course support</text>
+
+<text x="450" y="628" class="small" text-anchor="middle">Timeline based on the résumé and current portfolio direction.</text>
+</svg>

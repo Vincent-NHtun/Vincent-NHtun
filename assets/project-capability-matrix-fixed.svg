@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="520" viewBox="0 0 980 520" role="img">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}
+.title{font-size:26px;font-weight:700;fill:#f0f6fc}
+.subtitle{font-size:14px;fill:#8b949e}
+.label{font-size:14px;fill:#f0f6fc}
+.small{font-size:12px;fill:#8b949e}
+</style>
+<rect width="100%" height="100%" rx="18" fill="#0d1117"/>
+<text x="42" y="48" class="title" text-anchor="start">Project × Capability Matrix</text>
+<text x="42" y="74" class="subtitle" text-anchor="start">Which capabilities are demonstrated by each project or experience. Filled circles indicate stronger evidence in that item.</text>
+
+<rect x="40" y="97" width="900" height="380" rx="12" fill="#161b22" stroke="#30363d"/>
+
+<text x="370" y="123" class="small" text-anchor="middle">EDA</text>
+<text x="470" y="123" class="small" text-anchor="middle">Predictive ML</text>
+<text x="570" y="123" class="small" text-anchor="middle">Forecasting</text>
+<text x="670" y="123" class="small" text-anchor="middle">Viz / BI</text>
+<text x="770" y="123" class="small" text-anchor="middle">Computer Vision</text>
+<text x="870" y="123" class="small" text-anchor="middle">Research</text>
+
+<text x="60" y="160" class="label" text-anchor="start">Store Sales Forecasting</text>
+<circle cx="354" cy="155" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="370" cy="155" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="386" cy="155" r="5.5" fill="#0d1117" stroke="#30363d"/>
+<circle cx="454" cy="155" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="470" cy="155" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="486" cy="155" r="5.5" fill="#58a6ff" stroke="#58a6ff"/>
+<circle cx="554" cy="155" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="570" cy="155" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="586" cy="155" r="5.5" fill="#58a6ff" stroke="#58a6ff"/>
+<circle cx="654" cy="155" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="670" cy="155" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="686" cy="155" r="5.5" fill="#0d1117" stroke="#30363d"/>
+<circle cx="754" cy="155" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="770" cy="155" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="786" cy="155" r="5.5" fill="#0d1117" stroke="#30363d"/>
+<circle cx="854" cy="155" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="870" cy="155" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="886" cy="155" r="5.5" fill="#0d1117" stroke="#30363d"/>
+<line x1="55" y1="177" x2="925" y2="177" stroke="#30363d"/>
+
+<text x="60" y="212" class="label" text-anchor="start">Flu Shot Learning</text>
+<circle cx="354" cy="207" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="370" cy="207" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="386" cy="207" r="5.5" fill="#0d1117" stroke="#30363d"/>
+<circle cx="454" cy="207" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="470" cy="207" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="486" cy="207" r="5.5" fill="#58a6ff" stroke="#58a6ff"/>
+<circle cx="554" cy="207" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="570" cy="207" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="586" cy="207" r="5.5" fill="#0d1117" stroke="#30363d"/>
+<circle cx="654" cy="207" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="670" cy="207" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="686" cy="207" r="5.5" fill="#0d1117" stroke="#30363d"/>
+<circle cx="754" cy="207" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="770" cy="207" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="786" cy="207" r="5.5" fill="#0d1117" stroke="#30363d"/>
+<circle cx="854" cy="207" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="870" cy="207" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="886" cy="207" r="5.5" fill="#0d1117" stroke="#30363d"/>
+<line x1="55" y1="229" x2="925" y2="229" stroke="#30363d"/>
+
+<text x="60" y="264" class="label" text-anchor="start">Exercise &amp; Yoga Detection</text>
+<circle cx="354" cy="259" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="370" cy="259" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="386" cy="259" r="5.5" fill="#0d1117" stroke="#30363d"/>
+<circle cx="454" cy="259" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="470" cy="259" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="486" cy="259" r="5.5" fill="#58a6ff" stroke="#58a6ff"/>
+<circle cx="554" cy="259" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="570" cy="259" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="586" cy="259" r="5.5" fill="#0d1117" stroke="#30363d"/>
+<circle cx="654" cy="259" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="670" cy="259" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="686" cy="259" r="5.5" fill="#0d1117" stroke="#30363d"/>
+<circle cx="754" cy="259" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="770" cy="259" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="786" cy="259" r="5.5" fill="#58a6ff" stroke="#58a6ff"/>
+<circle cx="854" cy="259" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="870" cy="259" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="886" cy="259" r="5.5" fill="#0d1117" stroke="#30363d"/>
+<line x1="55" y1="281" x2="925" y2="281" stroke="#30363d"/>
+
+<text x="60" y="316" class="label" text-anchor="start">AdventureWorks</text>
+<circle cx="354" cy="311" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="370" cy="311" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="386" cy="311" r="5.5" fill="#58a6ff" stroke="#58a6ff"/>
+<circle cx="454" cy="311" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="470" cy="311" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="486" cy="311" r="5.5" fill="#0d1117" stroke="#30363d"/>
+<circle cx="554" cy="311" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="570" cy="311" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="586" cy="311" r="5.5" fill="#0d1117" stroke="#30363d"/>
+<circle cx="654" cy="311" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="670" cy="311" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="686" cy="311" r="5.5" fill="#58a6ff" stroke="#58a6ff"/>
+<circle cx="754" cy="311" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="770" cy="311" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="786" cy="311" r="5.5" fill="#0d1117" stroke="#30363d"/>
+<circle cx="854" cy="311" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="870" cy="311" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="886" cy="311" r="5.5" fill="#0d1117" stroke="#30363d"/>
+<line x1="55" y1="333" x2="925" y2="333" stroke="#30363d"/>
+
+<text x="60" y="368" class="label" text-anchor="start">Heart Disease</text>
+<circle cx="354" cy="363" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="370" cy="363" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="386" cy="363" r="5.5" fill="#58a6ff" stroke="#58a6ff"/>
+<circle cx="454" cy="363" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="470" cy="363" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="486" cy="363" r="5.5" fill="#0d1117" stroke="#30363d"/>
+<circle cx="554" cy="363" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="570" cy="363" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="586" cy="363" r="5.5" fill="#0d1117" stroke="#30363d"/>
+<circle cx="654" cy="363" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="670" cy="363" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="686" cy="363" r="5.5" fill="#58a6ff" stroke="#58a6ff"/>
+<circle cx="754" cy="363" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="770" cy="363" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="786" cy="363" r="5.5" fill="#0d1117" stroke="#30363d"/>
+<circle cx="854" cy="363" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="870" cy="363" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="886" cy="363" r="5.5" fill="#0d1117" stroke="#30363d"/>
+<line x1="55" y1="385" x2="925" y2="385" stroke="#30363d"/>
+
+<text x="60" y="420" class="label" text-anchor="start">Research Assistant</text>
+<circle cx="354" cy="415" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="370" cy="415" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="386" cy="415" r="5.5" fill="#0d1117" stroke="#30363d"/>
+<circle cx="454" cy="415" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="470" cy="415" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="486" cy="415" r="5.5" fill="#58a6ff" stroke="#58a6ff"/>
+<circle cx="554" cy="415" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="570" cy="415" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="586" cy="415" r="5.5" fill="#0d1117" stroke="#30363d"/>
+<circle cx="654" cy="415" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="670" cy="415" r="5.5" fill="#0d1117" stroke="#30363d"/><circle cx="686" cy="415" r="5.5" fill="#0d1117" stroke="#30363d"/>
+<circle cx="754" cy="415" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="770" cy="415" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="786" cy="415" r="5.5" fill="#58a6ff" stroke="#58a6ff"/>
+<circle cx="854" cy="415" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="870" cy="415" r="5.5" fill="#58a6ff" stroke="#58a6ff"/><circle cx="886" cy="415" r="5.5" fill="#58a6ff" stroke="#58a6ff"/>
+
+<text x="42" y="488" class="small" text-anchor="start">Evidence scale: 0 = not shown   1 = light   2 = moderate   3 = strong</text>
+</svg>

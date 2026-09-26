@@ -131,35 +131,6 @@ Data Storytelling
 
 ---
 
-## 📂 Projects
-
-I keep the detailed story, methodology, results, visuals, and lessons learned inside each project's own README.
-
-**Explore my work through the pinned repositories on my GitHub profile.**
-
-Each project is documented as a case study:
-
-`Problem` → `Data` → `Approach` → `Analysis / Model` → `Results` → `Real-world Use`
-
----
-
-## 🔬 Research Experience
-
-### Research Assistant — Yuan Ze University, Taiwan
-
-Worked on research involving **skeleton-based representations and temporal deep-learning models for dialogue intent recognition**.
-
-My work included:
-
-- Video-data preparation
-- Data collection and preprocessing
-- Dataset cleaning and organization
-- OpenPose
-- Human-pose representation
-- Machine-learning workflows
-
----
-
 ## 🧰 Analyst Toolbox
 
 | Purpose | Tools |
@@ -170,6 +141,15 @@ My work included:
 | Data Platforms | `Snowflake` `SQL Server` |
 | Computer Vision | `OpenCV` `YOLOv8` `Roboflow` `CVAT` `OpenPose` |
 | Workflow | `Git` `GitHub` |
+
+---
+📊 Portfolio at a Glance
+<p align="center"> <img src="./assets/data-science-landscape.svg" width="100%" alt="Vincent's Data Science Landscape" /> </p>
+<p align="center"> <img src="./assets/project-capability-matrix.svg" width="100%" alt="Project Capability Matrix" /> </p>
+<p align="center"> <img src="./assets/tools-across-work.svg" width="100%" alt="Tools Across My Work" /> </p>
+
+📍 My Journey Through Data
+<p align="center"> <img src="./assets/personal-journey-timeline.svg" width="100%" alt="Personal Journey Timeline" /> </p>
 
 ---
 

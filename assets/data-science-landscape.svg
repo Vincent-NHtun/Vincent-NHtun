@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}
+.title{font-size:26px;font-weight:700;fill:#f0f6fc}
+.subtitle{font-size:14px;fill:#8b949e}
+.label{font-size:14px;fill:#f0f6fc}
+.small{font-size:12px;fill:#8b949e}
+.axis{font-size:13px;font-weight:600;fill:#8b949e}
+</style>
+<rect width="100%" height="100%" rx="18" fill="#0d1117"/>
+<text x="42" y="48" class="title" text-anchor="start">My Data Science Landscape</text>
+<text x="42" y="74" class="subtitle" text-anchor="start">A qualitative map of the current portfolio — positioned by the kind of problem each project emphasizes.</text>
+<rect x="100" y="120" width="720" height="330" rx="12" fill="#161b22" stroke="#30363d"/>
+<line x1="280" y1="135" x2="280" y2="435" stroke="#30363d" stroke-dasharray="4 7"/>
+<line x1="460" y1="135" x2="460" y2="435" stroke="#30363d" stroke-dasharray="4 7"/>
+<line x1="640" y1="135" x2="640" y2="435" stroke="#30363d" stroke-dasharray="4 7"/>
+<line x1="115" y1="200" x2="805" y2="200" stroke="#30363d" stroke-dasharray="4 7"/>
+<line x1="115" y1="285" x2="805" y2="285" stroke="#30363d" stroke-dasharray="4 7"/>
+<line x1="115" y1="370" x2="805" y2="370" stroke="#30363d" stroke-dasharray="4 7"/>
+<text x="100" y="486" class="axis" text-anchor="start">Analytics / BI</text>
+<text x="820" y="486" class="axis" text-anchor="end">AI / ML systems</text>
+<text x="34" y="448" class="axis" text-anchor="start">Applied / business</text>
+<text x="34" y="130" class="axis" text-anchor="start">Research / modeling</text>
+<circle cx="205" cy="382" r="9" fill="#58a6ff"/>
+<text x="219" y="369" class="small" text-anchor="start">AdventureWorks</text>
+<circle cx="285" cy="318" r="9" fill="#3fb950"/>
+<text x="299" y="305" class="small" text-anchor="start">Heart Disease</text>
+<circle cx="455" cy="362" r="9" fill="#d29922"/>
+<text x="469" y="349" class="small" text-anchor="start">Store Sales</text>
+<circle cx="500" cy="236" r="9" fill="#bc8cff"/>
+<text x="514" y="223" class="small" text-anchor="start">Flu Shot</text>
+<circle cx="672" cy="268" r="9" fill="#39c5cf"/>
+<text x="658" y="255" class="small" text-anchor="end">Yoga Detection</text>
+<circle cx="708" cy="158" r="9" fill="#f85149"/>
+<text x="694" y="145" class="small" text-anchor="end">Research Assistant</text>
+<text x="450" y="510" class="small" text-anchor="middle">Qualitative positioning, not a proficiency score.</text>
+</svg>
