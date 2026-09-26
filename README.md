@@ -116,7 +116,7 @@ Deep Learning
 
 </td>
 
-<td width="25%" align="center" valign="top">
+<td width="30%" align="center" valign="top">
 
 ### 📈 Visualization
 
@@ -170,36 +170,6 @@ My work included:
 | Data Platforms | `Snowflake` `SQL Server` |
 | Computer Vision | `OpenCV` `YOLOv8` `Roboflow` `CVAT` `OpenPose` |
 | Workflow | `Git` `GitHub` |
-
----
-
-## 💻 Analyst Query
-
-```sql
-SELECT
-    question,
-    evidence,
-    insight,
-    recommendation
-FROM messy_real_world_data
-WHERE data_is_valid = TRUE
-ORDER BY business_impact DESC;
-```
-
-> **The goal isn't simply to write a query.  
-> The goal is to help someone make a better decision because of it.**
-
----
-
-## 🧠 Principles I Try to Follow
-
-```text
-Evidence      > Assumption
-Context       > Isolated Metrics
-Clarity       > Complexity
-Baseline      > Fancy Model
-Decision      > Dashboard
-```
 
 ---
 
