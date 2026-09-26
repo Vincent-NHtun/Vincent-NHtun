@@ -145,11 +145,11 @@ Data Storytelling
 ---
 📊 Portfolio at a Glance
 <p align="center"> <img src="./assets/data-science-landscape.svg" width="100%" alt="Vincent's Data Science Landscape" /> </p>
-<p align="center"> <img src="./assets/project-capability-matrix.svg" width="100%" alt="Project Capability Matrix" /> </p>
+<p align="center"> <img src="./assets/project-capability-matrix-fixed.svg" width="100%" alt="Project Capability Matrix" /> </p>
 <p align="center"> <img src="./assets/tools-across-work.svg" width="100%" alt="Tools Across My Work" /> </p>
 
 📍 My Journey Through Data
-<p align="center"> <img src="./assets/personal-journey-timeline.svg" width="100%" alt="Personal Journey Timeline" /> </p>
+<p align="center"> <img src="./assets/personal-journey-timeline-updated.svg" width="100%" alt="Personal Journey Timeline" /> </p>
 
 ---
 
