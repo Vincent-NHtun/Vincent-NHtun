@@ -131,73 +131,15 @@ Data Storytelling
 
 ---
 
-## 🧪 Selected Case Studies
+## 📂 Projects
 
-### ⏳ Store Sales Forecasting
+I keep the detailed story, methodology, results, visuals, and lessons learned inside each project's own README.
 
-> **Question:** Can historical sales patterns help predict future demand?
+**Explore my work through the pinned repositories on my GitHub profile.**
 
-**Approach**
+Each project is documented as a case study:
 
-`Data Cleaning` → `Feature Engineering` → `Seasonality Analysis` → `Modeling` → `Forecast Evaluation`
-
-**Models**
-
-`Random Forest` `XGBoost` `Linear Regression`
-
-**Real-world use**
-
-Supporting inventory planning and financial decision-making.
-
----
-
-### 💉 Flu Shot Learning
-
-> **Question:** Which behavioral and demographic factors are associated with vaccination?
-
-**Approach**
-
-`Data Preparation` → `Missing Value Handling` → `Feature Encoding` → `Model Comparison` → `Ensemble`
-
-**Models**
-
-`CatBoost` `LightGBM` `NGBoost`
-
-**Evaluation**
-
-`ROC-AUC`
-
----
-
-### 👁️ Exercise & Yoga Detection
-
-> **Question:** Can computer vision understand exercise movements in real time?
-
-**Approach**
-
-`Video Data` → `Pose Detection` → `Model Training` → `Classification` → `Real-time Application`
-
-**Tools**
-
-`YOLOv8` `OpenCV` `MediaPipe` `Roboflow`
-
-🔗 [View Project](https://github.com/Vincent-NHtun/Exercise-Yoga-Detection-YOLOv8)
-
----
-
-### ❤️ Heart Disease Data Exploration
-
-> **Question:** Which health indicators show meaningful patterns related to heart disease?
-
-**Approach**
-
-`Cleaning` → `EDA` → `Correlation Analysis` → `Visualization` → `Interpretation`
-
-**Tools**
-
-`Python` `Pandas` `Matplotlib`
-
-🔗 [View Project](https://github.com/Vincent-NHtun/Data-Visualization-of-heart-Disease-Prediction)
+`Problem` → `Data` → `Approach` → `Analysis / Model` → `Results` → `Real-world Use`
 
 ---
 
